@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class G9_Flood_Fill_Algorithm {
+class G09_Flood_Fill_Algorithm {
     class Pair {
         int i;
         int j;
